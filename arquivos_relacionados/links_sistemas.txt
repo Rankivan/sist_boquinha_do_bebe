@@ -1,0 +1,12 @@
+link dos sistemas locais - ivan
+
+  
+ REGISTROS DE ATENDIMENTO DENISOFT
+ formulário_suporte = http://localhost/sistemas/formulario_suporte/formulario_suport.php
+ tabela de registros = http://localhost/sistemas/formulario_suporte/tabela_registros.php
+ 
+ SISTEMA BOQUINHA DO BEBÊ
+ http://localhost/sistemas/sist_gest_2/tela_login.php
+ http://localhost/sistemas/sist_gest_2/sist_admin/telas_adm/adm.php?acao=home_adm
+ 
+ 

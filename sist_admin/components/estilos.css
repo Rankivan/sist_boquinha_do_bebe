@@ -1,0 +1,273 @@
+
+#cor_bg {
+    background: #9b9a9e;
+}
+
+
+/*_____________________________________________*/
+/*_____________________________________________*/
+
+/*   IMAGENS BOTOES */
+
+
+#imagem {
+    position: relative;
+
+}
+
+
+#chao_da_boca {
+    position: absolute;
+    left: 230px;
+    top: 450px;
+
+}
+
+#labio_inferior {
+    position: absolute;
+    left: 263px;
+    top: 615px;
+
+}
+
+#lingua {
+    position: absolute;
+    left: 278px;
+    top: 395px;
+
+}
+
+#ceu_da_boca {
+    position: absolute;
+    left: 230px;
+    top: 180px;
+
+}
+
+#labio_superior {
+    position: absolute;
+    left: 243px;
+    top: 145px;
+
+}
+
+
+/*_____________________________________________*/
+
+#dente_55 {
+    position: absolute;
+    left: 240px;
+    top: 285px;
+}
+
+#dente_54 {
+    position: absolute;
+    left: 245px;
+    top: 255px;
+}
+
+#dente_53 {
+    position: absolute;
+    left: 260px;
+    top: 225px;
+}
+
+#dente_52 {
+    position: absolute;
+    left: 285px;
+    top: 200px;
+}
+
+#dente_51 {
+    position: absolute;
+    left: 320px;
+    top: 190px;
+}
+
+#dente_51_select {
+    position: absolute;
+    left: 320px;
+    top: 185px;
+}
+
+
+/*_____________________________________________*/
+
+
+#dente_61 {
+    position: absolute;
+    left: 358px;
+    top: 190px;
+}
+
+#dente_62 {
+    position: absolute;
+    left: 388px;
+    top: 205px;
+}
+
+#dente_63 {
+    position: absolute;
+    left: 412px;
+    top: 225px;
+}
+
+#dente_64 {
+    position: absolute;
+    left: 427px;
+    top: 255px;
+}
+
+
+#dente_65 {
+    position: absolute;
+    left: 435px;
+    top: 285px;
+}
+
+/*_____________________________________________*/
+
+
+#dente_71 {
+    position: absolute;
+    left: 352px;
+    top: 598px;
+}
+
+#dente_72 {
+    position: absolute;
+    left: 378px;
+    top: 588px;
+}
+
+#dente_73 {
+    position: absolute;
+    left: 400px;
+    top: 570px;
+}
+
+#dente_74 {
+    position: absolute;
+    left: 415px;
+    top: 545px;
+}
+
+
+#dente_75 {
+    position: absolute;
+    left: 425px;
+    top: 518px;
+}
+
+/*_____________________________________________*/
+
+
+#dente_81 {
+    position: absolute;
+    left: 325px;
+    top: 598px;
+}
+
+#dente_82 {
+    position: absolute;
+    left: 300px;
+    top: 588px;
+}
+
+#dente_83 {
+    position: absolute;
+    left: 275px;
+    top: 570px;
+}
+
+#dente_84 {
+    position: absolute;
+    left: 255px;
+    top: 545px;
+}
+
+
+#dente_85 {
+    position: absolute;
+    left: 240px;
+    top: 518px;
+}
+
+
+/*_____________________________________________*/
+
+
+#linha_vertical {
+    position: absolute;
+    left: 345px;
+    top: 170px;
+}
+
+
+#linha_horizontal {
+    position: absolute;
+    left: 250px;
+    top: 405px;
+}
+
+
+
+/*________________TELA MENOR__________________*/
+
+@media screen and (max-width: 767px) {
+
+    .img_numero {
+    width: 20px;
+    height:20px;
+    }
+
+
+
+
+
+    /*########################################*/
+
+    #componenteBoca {
+        margin-top: -120px;
+        margin-left: -130px;
+
+    }
+
+    #textArea {
+        margin-top: 600px;
+
+    }
+}
+
+/*________________TELA MAIOR__________________*/
+
+
+@media screen and (min-width: 768px) {
+
+
+    #componenteBoca {
+        margin-top: -120px;
+        margin-left: 60px;
+
+    }
+
+    #textArea {
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

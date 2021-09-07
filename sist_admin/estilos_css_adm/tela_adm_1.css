@@ -1,0 +1,48 @@
+
+
+
+
+.navbar a {
+	color: #6775b0 !important;
+	font-size: 15px !important;
+	padding: 20px !important;
+}
+
+.navbar a:hover {
+	color: #c92746  !important;
+}
+
+
+.nav {
+
+	min-width:180px !important;
+	background-color: #df7777 !important;
+}
+
+.nav a{
+
+	color: #7191d8 !important;
+	font-size: 14px !important;
+
+}
+
+.nav .active {
+
+	background-color: #8d2525 !important;
+
+}
+
+
+
+
+
+
+#img_bebe_adm_logo_01_css{
+
+	width:  150px ;
+	height: 50px;
+
+
+
+
+}
