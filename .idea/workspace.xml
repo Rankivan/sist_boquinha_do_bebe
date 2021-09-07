@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a41733c3-7907-483f-bc52-61995401e5a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sist_admin/telas_adm/atr_home_atend/atendimento_pac.php" beforeDir="false" afterPath="$PROJECT_DIR$/sist_admin/telas_adm/atr_home_atend/atendimento_pac.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sist_admin/telas_adm/atr_home_atend/modal_home_atend.php" beforeDir="false" afterPath="$PROJECT_DIR$/sist_admin/telas_adm/atr_home_atend/modal_home_atend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sist_admin/telas_adm/atr_opções/modal_cadastro_patologia.php" beforeDir="false" afterPath="$PROJECT_DIR$/sist_admin/telas_adm/atr_opções/modal_cadastro_patologia.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sist_admin/telas_adm/opcoes_adm.php" beforeDir="false" afterPath="$PROJECT_DIR$/sist_admin/telas_adm/opcoes_adm.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sist_admin/components/estilos.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sist_admin/components/boca_component.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tela_login.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sist_admin/telas_adm/adm.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sist_admin/telas_adm/atr_home_atend/atendimento_pac.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1rrFzCjhToBYBB74cuVoDZNR8xA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/backoffice" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/arquivos_relacionados/Banco de dados" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sist_admin/Teste" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41733c3-7907-483f-bc52-61995401e5a2" name="Default Changelist" comment="" />
+      <created>1619726561391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619726561391</updated>
+      <workItem from="1619726562535" duration="2854000" />
+      <workItem from="1619729441752" duration="3000" />
+      <workItem from="1619800930384" duration="3468000" />
+      <workItem from="1624542248485" duration="1338000" />
+      <workItem from="1624565212703" duration="138000" />
+      <workItem from="1624639680682" duration="632000" />
+      <workItem from="1625849517731" duration="13596000" />
+      <workItem from="1626092545272" duration="6118000" />
+      <workItem from="1626122773585" duration="1234000" />
+      <workItem from="1626136543493" duration="2716000" />
+      <workItem from="1626177424655" duration="596000" />
+      <workItem from="1626273919026" duration="170000" />
+      <workItem from="1627663672365" duration="5679000" />
+      <workItem from="1627670797021" duration="24000" />
+      <workItem from="1627825072469" duration="2356000" />
+      <workItem from="1627910606746" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
